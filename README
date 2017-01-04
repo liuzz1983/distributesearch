@@ -1,0 +1,10 @@
+
+distirbuted search engine based on bleve and raft
+1. 构建单机的索引和服务
+
+一款好的搜索引擎是什么样子的，悟空搜索
+从架构
+1.高性能
+2.高可用
+3.一致性
+
